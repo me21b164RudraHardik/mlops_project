@@ -1,0 +1,10 @@
+apache-airflow
+requests
+beautifulsoup4
+psycopg2-binary
+sqlalchemy
+pandas
+fastapi
+uvicorn
+transformers
+vaderSentiment

@@ -1,0 +1,10 @@
+{
+  "moneycontrol_url": "https://www.moneycontrol.com/news/business/",
+  "db_config": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "articles_db",
+    "user": "postgres",
+    "password": "admin"
+  }
+}
